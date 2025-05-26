@@ -6,7 +6,12 @@
     <title>Login</title>
     <!-- Bootstrap 5 CSS CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    
 </head>
+<style>
+    <img src="https://tse4.mm.bing.net/th?id=OIP.PxOH1IyRMGRYq3tSk00ecAHaEK&pid=Api&P=0&h=220" alt="">
+</style>
+
 <body class="bg-light">
     <div class="container d-flex justify-content-center align-items-center vh-100">
         <div class="card shadow-sm" style="width: 100%; max-width: 400px;">
